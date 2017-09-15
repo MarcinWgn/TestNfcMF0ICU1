@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestNFC</string>
+    <string name="read">read</string>
+    <string name="write">write</string>
+    <string name="hex_string">1234567890abcdefABCDEF</string>
+    <string name="data_hex">data hex</string>
+    <string name="adr_hex">adr hex</string>
+    <string name="no_nfc">No NFC</string>
+    <string name="correct_values">Add correct values</string>
+    <string name="tag_detected">Tag detected</string>
+    <string name="no_tag">No Tag detected</string>
+</resources>
